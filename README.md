@@ -15,3 +15,18 @@ Said characteristics are as follows:
 - Number of shirts
 - Shirt size
   
+<br>
+
+## How to Install and Execute
+ - Download (finalProject.cpp) and (functions.cpp)
+ - Once downloaded and open, run the following commands in your command prompt/terminal:
+
+<br>
+
+#### FOR MACBOOK/APPLE PRODUCTS:
+<img src="code-snippet.png" alt="Instructions for executing files" width="600" height="400">
+
+<br>
+
+#### FOR WINDOWS:
+<img src="Screenshot_1.png" alt="Instructions for executing files" width="600" height="400">
