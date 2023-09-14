@@ -19,6 +19,7 @@ Said characteristics are as follows:
 
 ## How to Install and Execute
  - Download (finalProject.cpp) and (functions.cpp)
+ - For ease of use, group both files into a new folder. Will help with next steps
  - Once downloaded and open, run the following commands in your command prompt/terminal:
 
 <br>
